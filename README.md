@@ -31,3 +31,5 @@ Privacy: ProtonAOSP helps keep your Data Private with Camera & Microphone Indica
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.0.0_r13-B3-1/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.0.0_r13-B3/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.0.0_r13-B3-2/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases
