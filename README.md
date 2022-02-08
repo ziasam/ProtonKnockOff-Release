@@ -14,7 +14,7 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 
 ---------------------------------------------------------------------------------
 
-### Maintained for LEMONADES by
+### Maintained for LEMONADES(9R) and KEBAB(8T) by
 
 [Ziauddin Sameer](https://github.com/ziasam)
 
