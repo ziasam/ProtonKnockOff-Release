@@ -45,3 +45,5 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.3.0_r27-B2/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.4.0_r29-B1/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/12.4.0_r29-B2/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
