@@ -1,4 +1,4 @@
-<p align="center"><img width="1000" src="https://github.com/ziasam/ProtonKnockOff-Release/blob/master/banner.png"></p>
+<p align="center"><img width="1000" src="https://github.com/ziasam/ProtonKnockOff-Release/blob/master/Bzp.png"></p>
 
 ---------------------------------------------------------------------------------
 
