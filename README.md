@@ -69,3 +69,5 @@ Privacy: Project-Zephyrus helps keep your Data Private with Camera & Microphone 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/13.0.0_r2-B1/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/13.0.0_r2-B2/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/ProtonKnockOff-Release/13.0.2_r4-B1/total.svg)](https://github.com/ziasam/ProtonKnockOff-Release/releases)
